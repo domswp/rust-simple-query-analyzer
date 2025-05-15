@@ -1,0 +1,1 @@
+/home/domaswp/Documents/Program/rust/simple_query_analyzer/target/debug/simple_query_analyzer: /home/domaswp/Documents/Program/rust/simple_query_analyzer/src/analyzer.rs /home/domaswp/Documents/Program/rust/simple_query_analyzer/src/main.rs /home/domaswp/Documents/Program/rust/simple_query_analyzer/src/parser.rs
